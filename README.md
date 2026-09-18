@@ -12,12 +12,12 @@
 
 ## 👨‍💻 Tentang Saya
 
-Halo! Saya **Rega** (dikenal juga sebagai **ArkRega** atau **Schwarzze**). 
-Saya adalah siswa Teknik Jaringan Komputer dan Telekomunikasi (TJKT) di SMKN 8 Semarang dan bagian dari tim **Snapan Dev** (Frontend, Backend, & UI/UX). Saya memiliki fokus dan ketertarikan mendalam pada pengembangan backend, arsitektur API, automasi bot, dan manajemen infrastruktur server.
+Halo! Saya **Rega** (dikenal juga sebagai **ArkRega**). 
+Saya adalah siswa Teknik Jaringan Komputer dan Telekomunikasi (TJKT) di SMKN 8 Semarang dan bagian dari tim **Snapan Dev** (Frontend, Backend, & UI/UX). Saya memiliki fokus dan ketertarikan mendalam pada pengembangan backend, arsitektur API, automasi bot, dan manajemen infrastruktur server
 
-* 🔭 Saat ini sedang mengembangkan: **Fixmerah** (WhatsApp/Telegram Automation System) & **yuukibot** (Golang).
-* 🌱 Sedang mengeksplorasi: Golang, Python, optimasi infrastruktur VPS (Ubuntu, WireGuard, Cloudflare Tunnels), dan integrasi API.
-* ⚡ Fakta unik: Selain membangun produk digital, saya juga mengelola ekosistem server Minecraft (Paper/GeyserMC/Floodgate) dan sangat antusias dengan perakitan serta optimasi hardware PC.
+* 🔭 Saat ini sedang mengembangkan: **Fixmerah** (WhatsApp/Telegram Automation System) & **yuukibot** (Golang)
+* 🌱 Sedang mengeksplorasi: Golang, Python, optimasi infrastruktur VPS (Ubuntu, WireGuard, Cloudflare Tunnels), dan integrasi API
+* ⚡ Fakta unik: Selain membangun produk digital, saya juga mengelola ekosistem server Minecraft (Paper/GeyserMC/Floodgate) dan sangat antusias dengan perakitan serta optimasi hardware PC
 
 ## 🛠️ Tech Stack & Tools
 
@@ -45,13 +45,14 @@ Saya adalah siswa Teknik Jaringan Komputer dan Telekomunikasi (TJKT) di SMKN 8 S
 ## 🚀 Proyek Unggulan
 
 * **Fixmerah Automation System**
-  Sistem automasi tingkat lanjut untuk WhatsApp dan Telegram yang terintegrasi dengan API SMTP, handler status dinamis, dan web scraping menggunakan Puppeteer.
+  Sistem automasi tingkat lanjut untuk WhatsApp dan Telegram yang terintegrasi dengan API SMTP, handler status dinamis, dan web scraping menggunakan Puppeteer
 * **yuukibot**
-  Repositori bot berkinerja tinggi yang dibangun sepenuhnya menggunakan Golang untuk skalabilitas dan efisiensi memori yang optimal.
+  Repositori bot berkinerja tinggi yang dibangun sepenuhnya menggunakan Golang untuk skalabilitas dan efisiensi memori yang optimal
+  
 * **Media Downloader Hub**
-  Infrastruktur ekstraksi media multi-platform yang mendukung pengunduhan dari TikTok, YouTube, Spotify, dan Facebook.
+  Infrastruktur ekstraksi media multi-platform yang mendukung pengunduhan dari TikTok, YouTube, Spotify, dan Facebook
 * **QRIS Frame Maker**
-  Generator web interaktif untuk membuat kustomisasi frame pembayaran QRIS dengan integrasi branding pengguna.
+  Generator web interaktif untuk membuat kustomisasi frame pembayaran QRIS dengan integrasi branding pengguna
 
 ## 📊 Statistik GitHub
 
